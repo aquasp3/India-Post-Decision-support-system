@@ -1,0 +1,21 @@
+scheme_name,target_group,priority_weight,peak_month_name,peak_month_numeric,lead_time_months,start_month_numeric,start_month_name,scheme_id
+Rythu Bandhu Investment Support (Kharif),Farmers,1.55,June,6,2,4,April,rythu_bandhu_investment_support_kharif
+PM Kisan Samman Nidhi (Rabi Installment),Farmers,1.25,November,11,1,10,October,pm_kisan_samman_nidhi_rabi_installment
+Pradhan Mantri Fasal Bima Yojana (Kharif Crop),Farmers,1.45,July,7,2,5,May,pradhan_mantri_fasal_bima_yojana_kharif_crop
+National Live Stock Mission (Rabi Livestock Plan),Farmers,0.95,January,1,1,12,December,national_live_stock_mission_rabi_livestock_plan
+National Food Security Mission (Millets Drive),Farmers,0.85,September,9,2,7,July,national_food_security_mission_millets_drive
+Sukanya Samriddhi Yojana (Academic Enrollment Drive),Children,1.5,June,6,2,4,April,sukanya_samriddhi_yojana_academic_enrollment_drive
+National Savings Education Time Deposit,Children,1.05,May,5,1,4,April,national_savings_education_time_deposit
+Deen Dayal SPARSH Scholarship Scheme,Children,1.15,July,7,1,6,June,deen_dayal_sparsh_scholarship_scheme
+Balika Samriddhi Yojana (Primary Enrollment),Children,1.2,February,2,2,12,December,balika_samriddhi_yojana_primary_enrollment
+Integrated Child Development Services (Nutrition Support),Children,1.35,August,8,1,7,July,integrated_child_development_services_nutrition_support
+Senior Citizens Savings Scheme (Annual Rollout),Seniors,1.6,March,3,1,2,February,senior_citizens_savings_scheme_annual_rollout
+Pradhan Mantri Vaya Vandana Yojana (PMVVY Portfolio),Seniors,1.1,August,8,2,6,June,pradhan_mantri_vaya_vandana_yojana_pmvvy_portfolio
+Post Office Monthly Income Scheme (Senior Dividends),Seniors,1.25,September,9,1,8,August,post_office_monthly_income_scheme_senior_dividends
+Indira Gandhi National Old Age Pension Scheme,Seniors,1.3,April,4,2,2,February,indira_gandhi_national_old_age_pension_scheme
+National Pension System (Senior Swavalamban),Seniors,1.0,December,12,1,11,November,national_pension_system_senior_swavalamban
+Mahila Samman Savings Certificate (Bathukamma Drive),Females,1.65,October,10,1,9,September,mahila_samman_savings_certificate_bathukamma_drive
+National Savings Certificate (Dussehra Mahila Special),Females,1.15,November,11,2,9,September,national_savings_certificate_dussehra_mahila_special
+Post Office Recurring Deposit (Sankranti Mahila Flourish),Females,1.25,January,1,1,12,December,post_office_recurring_deposit_sankranti_mahila_flourish
+Pradhan Mantri Matru Vandana Yojana (Maternal Benefit),Females,1.4,May,5,2,3,March,pradhan_mantri_matru_vandana_yojana_maternal_benefit
+Sukanya Samriddhi Mahila Empowerment (International Womens Day),Females,1.35,March,3,1,2,February,sukanya_samriddhi_mahila_empowerment_international_womens_day

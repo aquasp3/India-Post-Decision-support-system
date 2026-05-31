@@ -1,0 +1,31 @@
+village_name,geographic_zone,annual_rainfall_mm,drought_vulnerability,flood_risk,optimal_outreach_season,rainfall_category,risk_score,priority_segment,suggested_campaign_type,drought_vulnerability_code,flood_risk_code,requires_insurance_flag,environment_priority
+Geesugonda,Central Catchment Plains,929,Low,High,Year-round,Medium,1.9,Moderate Attention,Digital + Insurance,0,2,1,Critical Monitoring
+Rayaparthy,Semi-Arid Plains,764,Medium,Low,Year-round,Medium,1.51,Stable,General Awareness,1,0,0,Moderate Monitoring
+Wardhannapet,Central Catchment Plains,821,Medium,Low,Year-round,Medium,1.44,Stable,General Awareness,1,0,0,Moderate Monitoring
+Hasanparthy,Semi-Arid Plains,770,Medium,Low,Year-round,Medium,1.5,Stable,General Awareness,1,0,0,Moderate Monitoring
+Choppadandi,Central Catchment Plains,871,Low,Low,Year-round,Medium,1.03,Stable,General Awareness,0,0,0,Stable
+Manakondur,Central Catchment Plains,964,Low,High,Year-round,Medium,1.94,Moderate Attention,Digital + Insurance,0,2,1,Critical Monitoring
+Veenavanka,Central Catchment Plains,952,Low,High,Year-round,Medium,1.93,Moderate Attention,Digital + Insurance,0,2,1,Critical Monitoring
+Timmapur,Northern Forest Foothills,866,Low,Low,Year-round,Medium,1.02,Stable,General Awareness,0,0,0,Stable
+Armoor,Northern Forest Foothills,969,Low,Low,Year-round,Medium,1.15,Stable,General Awareness,0,0,0,Stable
+Wyra,Drought-Prone Lowlands,985,Low,Low,Year-round,Medium,1.17,Stable,General Awareness,0,0,0,Stable
+Balkonda,Northern Forest Foothills,957,Low,Low,Year-round,Medium,1.13,Stable,General Awareness,0,0,0,Stable
+Bela,Northern Forest Foothills,1169,Low,Low,Year-round,Medium,1.4,Stable,General Awareness,0,0,0,Moderate Monitoring
+Bodhan,Central Catchment Plains,890,Low,Low,Year-round,Medium,1.09,Stable,General Awareness,0,0,0,Stable
+Cherial,Semi-Arid Plains,740,High,Low,Year-round,Low,1.88,Critical Attention,Drought Relief,2,0,1,Moderate Monitoring
+Chintakani,Northern Forest Foothills,807,Medium,Low,Year-round,Medium,1.45,Stable,General Awareness,1,0,0,Moderate Monitoring
+Devarakonda,Drought-Prone Lowlands,620,High,Low,Year-round,Low,1.92,Critical Attention,Drought Relief,2,0,1,Critical Monitoring
+Devarkadra,Semi-Arid Plains,710,High,Low,Year-round,Low,1.81,Critical Attention,Drought Relief,2,0,1,Moderate Monitoring
+Dichpally,Central Catchment Plains,840,Low,Low,Year-round,Medium,1.05,Stable,General Awareness,0,0,0,Stable
+Dubbak,Semi-Arid Plains,790,Medium,Low,Year-round,Medium,1.48,Stable,General Awareness,1,0,0,Moderate Monitoring
+Gajwel,Central Catchment Plains,910,Low,Low,Year-round,Medium,1.12,Stable,General Awareness,0,0,0,Stable
+Husnabad,Semi-Arid Plains,834,Medium,Low,Year-round,Medium,1.46,Stable,General Awareness,1,0,0,Moderate Monitoring
+Ichoda,Northern Forest Foothills,1088,Low,Low,Year-round,Medium,1.3,Stable,General Awareness,0,0,0,Stable
+Jadcherla,Semi-Arid Plains,720,High,Low,Year-round,Low,1.84,Critical Attention,Drought Relief,2,0,1,Moderate Monitoring
+Jainath,Central Catchment Plains,808,Medium,Low,Year-round,Medium,1.45,Stable,General Awareness,1,0,0,Moderate Monitoring
+Kanagal,Semi-Arid Plains,690,High,Low,Year-round,Low,1.82,Critical Attention,Drought Relief,2,0,1,Moderate Monitoring
+Madhira,Semi-Arid Plains,910,Low,Low,Year-round,Medium,1.08,Stable,General Awareness,0,0,0,Stable
+Nelakondapalli,Northern Forest Foothills,937,Low,Low,Year-round,Medium,1.11,Stable,General Awareness,0,0,0,Stable
+Nidamanoor,Drought-Prone Lowlands,640,High,Low,Year-round,Low,1.95,Critical Attention,Drought Relief,2,0,1,Critical Monitoring
+Nakrekal,Central Catchment Plains,860,Low,Low,Year-round,Medium,1.04,Stable,General Awareness,0,0,0,Stable
+Utnoor,Northern Forest Foothills,1048,Low,Low,Year-round,Medium,1.25,Stable,General Awareness,0,0,0,Stable
