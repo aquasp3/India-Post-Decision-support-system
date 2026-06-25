@@ -195,26 +195,22 @@ streamlit run app.py
 
 # 📷 Screenshots
 
-### Dashboard
+## Dashboard
 
-
----
-
-### Upload & Validation
-
-(Add Screenshot)
+![Dashboard](assets/dashboard.png)
 
 ---
 
-### Scheme Recommendation
+## Upload Module
 
-(Add Screenshot)
+![Upload](assets/upload.png)
 
 ---
 
-### Campaign Planning
+## Recommendation Engine
 
-(Add Screenshot)
+![Recommendation](assets/recommendation.png)
+
 
 ---
 
